@@ -1,0 +1,8 @@
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+requests>=2.31
+gspread>=6.0
+oauth2client>=4.1
+python-dotenv>=1.0
